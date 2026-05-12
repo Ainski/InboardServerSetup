@@ -1,6 +1,5 @@
 # 安装nvm
-
-curl -o- https://gitee.com/RubyMetric/nvm-cn/raw/main/install.sh | bash
+curl -L -o- https://gitee.com/RubyMetric/nvm-cn/raw/main/install.sh | bash
 chmod +x ~/.nvm/nvm.sh
 source ~/.bashrc
 
